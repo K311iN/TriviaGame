@@ -23,7 +23,7 @@ html {
     top: 120px;
     font-size: 8em
 }
-.button {
+#start-button {
     font-size: 3em;
     padding: 14px 40px;
     background-color: cadetblue;
@@ -34,5 +34,4 @@ html {
     position: absolute;
     top: 400px;
     left: 400px;
-    
 }
